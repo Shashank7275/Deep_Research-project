@@ -1,4 +1,4 @@
-import streamlit as sttt
+import streamlit as stt
 from pipeline import run_research_pipeline
 from datetime import datetime
 
